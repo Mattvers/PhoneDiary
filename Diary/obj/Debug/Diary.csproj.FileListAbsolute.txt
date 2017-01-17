@@ -1,0 +1,11 @@
+D:\Programing\PROJEKTY\5. Diary\Diary\Diary\bin\Debug\Diary.exe.config
+D:\Programing\PROJEKTY\5. Diary\Diary\Diary\bin\Debug\Diary.exe
+D:\Programing\PROJEKTY\5. Diary\Diary\Diary\bin\Debug\Diary.pdb
+D:\Programing\PROJEKTY\5. Diary\Diary\Diary\obj\Debug\Diary.csprojResolveAssemblyReference.cache
+D:\Programing\PROJEKTY\5. Diary\Diary\Diary\obj\Debug\Diary.Phone.resources
+D:\Programing\PROJEKTY\5. Diary\Diary\Diary\obj\Debug\Diary.Properties.Resources.resources
+D:\Programing\PROJEKTY\5. Diary\Diary\Diary\obj\Debug\Diary.csproj.GenerateResource.Cache
+D:\Programing\PROJEKTY\5. Diary\Diary\Diary\obj\Debug\Diary.exe
+D:\Programing\PROJEKTY\5. Diary\Diary\Diary\obj\Debug\Diary.pdb
+D:\Programing\PROJEKTY\5. Diary\Diary\Diary\bin\Debug\MySql.Data.dll
+D:\Programing\PROJEKTY\5. Diary\Diary\Diary\bin\Debug\MySql.Data.xml
